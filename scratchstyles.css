@@ -1,0 +1,35 @@
+body {font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: rgb(57, 28, 39);
+    background-color: #d4bfd3;}
+
+h2 {color: rgb(56, 40, 55);
+    text-align: center;}
+
+a {color: rgb(57, 28, 39);
+    text-decoration: none;}
+
+a:hover {text-decoration: underline;
+    font-weight: bold;}
+
+a:visited {color: rgb(57, 28, 39)}
+
+.bold {font-weight: bold;
+    color: rgb(56, 40, 55);}
+
+li {font-weight: normal;
+    color: rgb(57, 28, 39);}
+
+.center {text-align: center;}
+
+.homebg {background-image: url('../images/Home\ Screen.jpeg');
+    background-position: center;}
+
+.box1 {border-width: 1px;
+    border-style: solid;}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
